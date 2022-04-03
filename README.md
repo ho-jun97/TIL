@@ -1,3 +1,3 @@
 # TIL
 
-## description : TOday I Learned..
+## description : Today I Learned..
