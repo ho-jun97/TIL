@@ -18,8 +18,8 @@
 	- map.clear(); -> 모든 값 제거
 
 - **출력**
-	- map.get(HashMap이름) : hashmap 전체 출력
-	- map.get(key이름) : key에 해당하는 value 출력
+	- map.get(HashMap이름) -> hashmap 전체 출력
+	- map.get(key이름) -> key에 해당하는 value 출력
 	- entrySet()
 		- for (Entry<keyType,valueType> entry : map.entrySet())
 			- entry.getKey(), entry.getValue() 가능
