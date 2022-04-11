@@ -3,7 +3,7 @@
 - 중복을 허용하지 않음
 - null 요소 허용됨
 
-## HashSet 변수 선언 및 값 추가, 값 삭제, 출력
+## HashSet 변수 선언 및추가, 삭제, 출력
 	- **선언**
 		- HashSet<Integer> set(이름) = new HashSet<>();
 		- (Integer 자리에 String, Long 가능)
